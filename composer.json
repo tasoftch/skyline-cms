@@ -1,0 +1,26 @@
+{
+  "name": "skyline/cms",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Thomas Abplanalp",
+      "email": "info@tasoft.ch"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Skyline\\CMS\\" : "src"
+    }
+  },
+  "require" : {
+    "php": "^7.2",
+    "skyline/core-application": "dev-master",
+    "skyline/html-render": "dev-master",
+    "skyline/component-bootstrap": "dev-master",
+    "skyline/navigation": "dev-master"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6"
+  }
+}
