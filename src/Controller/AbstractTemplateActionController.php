@@ -21,7 +21,7 @@
  * SOFTWARE.
  */
 
-namespace TASoft\DI\Controller;
+namespace Skyline\CMS\Controller;
 
 
 use Skyline\Application\Controller\AbstractActionController;
