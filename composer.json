@@ -1,5 +1,6 @@
 {
   "name": "skyline/cms",
+  "description": "Installs all required packages to create a web application using Skyline CMS and the Bootstrap CSS framework.",
   "license": "MIT",
   "minimum-stability": "dev",
   "authors": [
